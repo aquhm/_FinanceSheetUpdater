@@ -1,0 +1,48 @@
+# 환경 변수 파일
+.env
+
+# 서비스 계정 키 파일
+service_account.json
+*.pem
+*.key
+
+# Python 관련 무시 파일
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# 로그 파일
+*.log
+app.log
+
+# 가상 환경
+venv/
+ENV/
+.env/
+
+# IDE 관련 파일
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS 관련 파일
+.DS_Store
+Thumbs.db

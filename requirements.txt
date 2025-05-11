@@ -1,0 +1,11 @@
+requests
+gspread
+google-auth
+python-dotenv
+pandas
+boto3
+finance-datareader
+pandas
+beautifulsoup4
+plotly
+numpy
